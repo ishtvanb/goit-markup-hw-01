@@ -1,0 +1,75 @@
+body{
+    font-family: 'roboto', sans-serif;
+}
+
+.header-navigation {
+
+} 
+
+.header-list {
+
+}
+
+
+.header-link {
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: #212121;
+}
+
+.list {
+list-style: none;
+}
+
+.link {
+text-decoration: none;
+}
+
+.hero {
+
+}
+
+.hero-title {
+
+}
+
+.button {
+font-family: 'roboto';
+font-weight: 700;
+font-size: 16px;
+line-height: 1.88;
+letter-spacing: 0.06em;
+color: #FFFFFF;
+    
+}
+
+.section {
+
+}
+
+.section-title {
+
+}
+
+.section-item {
+
+}
+
+.section-txt {
+
+}
+
+.section-member {
+
+}
+
+.footer {
+
+}
+
+.footer-item {
+
+}
+
